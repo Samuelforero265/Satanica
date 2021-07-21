@@ -75,9 +75,9 @@ hit_today = []
 blocked = []
 banChats = false
 offline = false
-targetpc = '5214447002665'
-owner = '5214447002665'
-fake = 'ị¡-𝐒𝐚ᷤ𝐭𝐚ͤ𝐧𝐢̽𝐜𝐚̊𝐎𝐅𝐂ꫵ₆⁶₆.il'
+targetpc = '+573112621870'
+owner = '+573112621870'
+fake = 'Samu :D'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -133,9 +133,6 @@ pato.on('CB:action,,call', async json => {
 			teks += `║│➻ *NOMBRE* :\n`
 			teks += `║│➻ *EDAD* :\n`
 			teks += `║│➻ *GÉNERO* :\n`
-			teks += `║╰───────────────\n`
-			teks += `║╭──[ ❮ ˢᵉˡᶠᵇᵒᵗ𐚲¿?͓ ❯ ]──────\n`
-			teks += `║╰──[ ị¡-𝐒𝐚ᷤ𝐭𝐚ͤ𝐧𝐢̽𝐜𝐚̊𝐎𝐅𝐂ꫵ₆⁶₆.il ]─────────\n`
 			teks += `╚═════════════════\n`
 			let buff = await getBuffer(ppimg)
 		    pato.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
@@ -1140,8 +1137,8 @@ switch (command) {
 ➤ 𝐕𝐞𝐥𝐨𝐜𝐢𝐝𝐚𝐝 : ${sepid.toFixed(4)} 𝐬𝐞𝐠𝐮𝐧𝐝𝐨𝐬
 ➤ 𝐓𝐢𝐞𝐦𝐩𝐨 𝐚𝐜𝐭𝐢𝐯𝐨 : ${runtem}
 ➤ 𝐏𝐫𝐞𝐟𝐢𝐱 : 「 ${prefix} 」
-➤𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : 𝐒𝐚𝐭𝐚𝐧𝐢𝐜𝐚
-➤𝐏𝐫𝐨𝐯𝐞𝐞𝐝𝐨𝐫 : 𝐏𝐚𝐭𝐨
+➤𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : ꜱᴀᴍᴜᴇʟ
+➤𝐏𝐫𝐨𝐯𝐞𝐞𝐝𝐨𝐫 : ꜱᴀᴍᴜᴇʟ:/
 `
         	faketokoforwaded(menu)
            	break
@@ -2555,11 +2552,11 @@ faketokoforwaded(her)
 break
    case prefix+ 'canal':
 			case prefix+ 'chanel':
-                  reply ('https://youtube.com/c/SpecialWeek愛する')
+                  reply ('No tengo pero sigueme en ig https://www.instagram.com/fr.samuu_/')
                 break
 case prefix+ 'creador':
 			case prefix+ 'dueño':
-                  reply ('Mi creador es Satánica wa.me/+524447002665')
+                  reply ('Mi creador es ꜱᴀᴍᴜᴇʟ wa.me/+573112621870')
                 break
 case prefix+ 'tomp3':
             if (!isQuotedVideo) return fakegroup('Responde a un video')
